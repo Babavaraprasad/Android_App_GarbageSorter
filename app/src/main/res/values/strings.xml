@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Garbage sorting V3</string>
+    <string name="text_name">Where to place item:</string>
+    <string name="button_name">WHERE</string>
+    <string name="what_item">What item?</string>
+    <string name="where">Where?</string>
+    <string name="heading_create">ADD NEW ITEM</string>
+    <string name="btn_add_new">ADD A NEW ITEM</string>
+</resources>

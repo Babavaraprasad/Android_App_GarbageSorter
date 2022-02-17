@@ -1,0 +1,39 @@
+newspaper,paper
+magazine,paper
+milk carton,food
+shoe box,cardboard
+can,metal
+book,paper
+teddy bears,daily waste
+cables,metal
+computer,Electronics
+wine bottle,Glass
+bag,plastic
+milk,food
+Metal candlesticks,metal
+Envelopes,paper
+Office paper,paper
+detergents,plastic
+Diapers,Residual waste
+Sanitary waste,Residual waste
+Eggs,Bio waste
+Nuts,Bio waste
+carpets,Bulky waste
+PVC,Bulky waste
+postcards,cardboard
+article,paper
+musical instrument,wood
+bike parts,metal
+cards,paper
+pen,plastic
+plate,metal
+jars,Glass
+tea box,metal
+cookware,metal
+Hammer,metal
+Curtain clips,metal
+table,Wood
+mobile,Electronics
+cap,plastic
+pasta,food
+Tomatoes,food
