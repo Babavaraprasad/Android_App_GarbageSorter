@@ -37,3 +37,24 @@ mobile,Electronics
 cap,plastic
 pasta,food
 Tomatoes,food
+cabbage, food
+kale, food
+cauliflower, food
+onion, food
+beetroot, food
+celeriac, food
+cellery, food
+flour, food
+sugar, food
+rice, food
+chips bag, General
+paint, Chemical
+chlorine, Chemical
+tooth brush, plastic
+shampoo bottle, plastic
+capsule, metal
+needle, metal
+newspaper, paper
+letter, paper
+plastic bottle, plastic
+meat, food waste
