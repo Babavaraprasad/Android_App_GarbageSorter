@@ -77,7 +77,7 @@ public class ItemsDB {
                         Log.d("ItemsDB","search what: "+query);
                         String wherevalue = getWhere(query);
                         Log.d("ItemsDB","search where: "+query);
-                        result = query+" should be placed in: "+wherevalue;
+                        result = query+" should be placed in:"+wherevalue;
                     }
                     else
                     {
