@@ -6,4 +6,5 @@
     <string name="where">Where?</string>
     <string name="heading_create">ADD NEW ITEM</string>
     <string name="btn_add_new">ADD A NEW ITEM</string>
+    <string name="btn_clear">clear content</string>
 </resources>

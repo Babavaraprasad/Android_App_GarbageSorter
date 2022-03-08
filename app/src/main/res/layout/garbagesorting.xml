@@ -47,4 +47,14 @@
         android:text="@string/btn_add_new"
         android:textSize="@dimen/button_text_size"
         android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/clear_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/button_size"
+        android:layout_gravity="center"
+        android:background="#7FFF00"
+        android:text="@string/btn_clear"
+        android:textSize="@dimen/button_text_size"
+        android:layout_marginTop="50dp"/>
 </LinearLayout>

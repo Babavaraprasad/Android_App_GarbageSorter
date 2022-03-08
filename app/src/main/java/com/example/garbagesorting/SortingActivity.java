@@ -21,6 +21,8 @@ public class SortingActivity extends AppCompatActivity {
     private EditText inputcontent;
     //Main activity Add button field
     private Button mainpageadd;
+    //Button- to clear the input field
+    private Button clearinput;
     // Model: Database of items
     private static ItemsDB itemsDB;
 
@@ -48,6 +50,18 @@ public class SortingActivity extends AppCompatActivity {
             }
         });
         //garbage app V1 code ends here
+
+        //code for clearing the input content starts
+        clearinput = findViewById(R.id.clear_btn);
+        clearinput.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String name = inputcontent.getText().toString();
+                inputcontent.setText("");
+            }
+        });
+        //code for clearing the input content ends
+
 
         //garbage activity V2(new activity) code starts from here
         Button mainpageadd = (Button) findViewById(R.id.add_new_btn);
